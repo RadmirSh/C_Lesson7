@@ -26,3 +26,5 @@ Random randomNew = new Random();
 }
 
 editArray(m,n);
+
+Console.WriteLine("\n");
