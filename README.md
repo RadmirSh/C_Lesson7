@@ -14,7 +14,7 @@
 
   - [x] Done - [decision_Task50](https://github.com/RadmirSh/C_Lesson7/blob/main/Task2/Program.cs)
   ___
-  * **<ins>Task2</ins>** Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.
+  * **<ins>Task3</ins>** Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.
 
   - [x] Done - [decision_Task52](https://github.com/RadmirSh/C_Lesson7/blob/main/Task3/Program.cs)
   ___
