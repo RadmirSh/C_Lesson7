@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Please write the number of task");
+﻿Console.WriteLine("Please write the number of the task");
 
 int task = Convert.ToInt32(Console.ReadLine());
 
